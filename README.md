@@ -1,8 +1,7 @@
 
 <!-- PROJECT SHIELDS -->
 [![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![GitHub issues]
+[![GitHub issues](https://img.shields.io/github/issues/Nikhil404/JS-Smooth-Scroll)](https://github.com/Nikhil404/JS-Smooth-Scroll/issues)
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -44,7 +43,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/Nikhil404/JS-Smooth-Scroll)
+[product-screenshot]
 Best way to design the scroll with using only javaScript
 
 ### Built With
@@ -98,6 +97,4 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/Ni
 <!-- MARKDOWN LINKS & IMAGES -->
 [forks-shield]: https://img.shields.io/github/forks/Nikhil404/JS-Smooth-Scroll
 [forks-url]: https://github.com/Nikhil404/JS-Smooth-Scroll/network
-[![GitHub Build]: https://img.shields.io/github/issues/Nikhil404/JS-Smooth-Scroll
-[![GitHub URL]:https://github.com/Nikhil404/JS-Smooth-Scroll/issues
 [product-screenshot]: images/screenshot.png
