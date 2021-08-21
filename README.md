@@ -1,7 +1,8 @@
 
 <!-- PROJECT SHIELDS -->
-[![Contributors][contributors-shield]][contributors-url]
-[![GitHub issues](https://img.shields.io/github/issues/Nikhil404/JS-Smooth-Scroll?style=for-the-badge)](https://github.com/Nikhil404/JS-Smooth-Scroll/issues)
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![GitHub issues]
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -93,5 +94,10 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/Ni
 - [Choose an Open Source License](https://choosealicense.com)
 - [GitHub Pages](https://pages.github.com)
 - [Font Awesome](https://fontawesome.com)
-
+- 
+<!-- MARKDOWN LINKS & IMAGES -->
+[forks-shield]: https://img.shields.io/github/forks/Nikhil404/JS-Smooth-Scroll
+[forks-url]: https://github.com/Nikhil404/JS-Smooth-Scroll/network
+[![GitHub Build]: https://img.shields.io/github/issues/Nikhil404/JS-Smooth-Scroll
+[![GitHub URL]:https://github.com/Nikhil404/JS-Smooth-Scroll/issues
 [product-screenshot]: images/screenshot.png
